@@ -5,7 +5,7 @@ I built an online shopping page with products on display. Key features:
 
 * nav bar with logo and links (not functional yet)
 * 10 items on the page
-* uses grid system
+* uses grid system and responsive design to resize based on browser/system on which it is viewed
 * contains responsive images
 * displays name and price for each product
 * button to 'buy' the product (that links to the relevant shop website)
